@@ -69,7 +69,7 @@ preferredSymbol = "c" >
 
 ```
 
-元素<module …>中各属性如下：
+元素`<module …>`中各属性如下：
 * name：模块的全局唯一的名称，开发者应为模块取一个唯一的名称以避免名称冲突。模块名称必须为1~255个ASCII码字符。
 * baja Version：即前面“版本号”中所述的“baja Version”，命名规则如上所述。
 * vendor：即前面“版本号”中所述的“vendor Name”，标识模块的开发公司。
